@@ -203,7 +203,7 @@ def main():
         try:
             city, month, day = get_filters()
             df = load_data(city, month, day)
-
+            print('City provided: ' + city)
         except:
             print("Looks like you might have entered an incompatible value! Let's try again.")
 
