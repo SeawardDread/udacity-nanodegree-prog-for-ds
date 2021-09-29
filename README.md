@@ -4,7 +4,7 @@
 ### Bikeshare Data Exploration Project
 
 ### Description
-The purpose of this Python app is to explore bikeshare data for three cities: Chicago, NYC and Washington
+The purpose of this Python app is to explore bikeshare data for three cities: Chicago, NYC and Washington. It first asks the user to filter the available data, then gives a summary of the filtered data to the user.
 
 ### Files used
 bikeshare.py
@@ -14,5 +14,3 @@ washington.csv
 
 ### Credits
 The basis for this project was the second project of the Udacity Nanodegree: Programming for Data Science with Python
-
-
